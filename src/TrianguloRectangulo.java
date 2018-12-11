@@ -6,16 +6,7 @@
 // javax.swing.JOptionPane para solicitar los valores de los catetos de dicho 
 // triangulo y tambien para mostrar los datos de los metodos creados.
 
-// TrianguloRectangulo
-// - cateto1: int
-// - cateto2: int
-// + TriRectangulo(cateto int, cateto2 int)
-// Getters Setters
-// + TriRectanguloHipotenusa():double
-// + TriRectanguloPerimetro():double
-// + TriRectanguloArea():int
-// + toString():string
-//
+
 
 
 
